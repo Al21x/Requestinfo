@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.icon-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.content {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.calendly-inline-widget {
+    margin: 20px 0;
+}
+
+.media {
+    margin-top: 20px;
+}
+
+#video {
+    margin-bottom: 20px;
+}
+
+#presentation a {
+    display: inline-block;
+    background-color: #0073e6;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#presentation a:hover {
+    background-color: #005bb5;
+}
